@@ -1,0 +1,8 @@
+# build output
+build/
+release/*.zip
+# binaries copied in for the Workshop item (BepInEx + the built DLL)
+workshop/Install/Files/
+# files the game generates inside mod folders
+*.meta
+_Metacache/
